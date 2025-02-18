@@ -19,7 +19,7 @@
             "mü.M."
         ],
         "photo": "https://eawag-applied-system-analysis.s3.eu-central-1.amazonaws.com/lake-monitoring/img/inkwilersee.jpg",
-        "linegraph": "https://www.datalakes-eawag.ch/datadetail/843?iframe&bafu&axis:[x,y4,y3]",
+        "linegraph": "https://www.datalakes-eawag.ch/datadetail/843?iframe&bafu&axis:[x,y2,y1]",
         "heatmap": "https://www.datalakes-eawag.ch/datadetail/843?iframe&bafu&axis:[x,y,z]",
         "oxygen": "https://www.datalakes-eawag.ch/datadetail/848?iframe&bafu&axis:[x,y,z1]",
         "text": {
